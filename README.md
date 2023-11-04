@@ -11,10 +11,14 @@ The training set prediction results for the entire dataset are as follows:
 
 The testing set prediction results are as follows:
 
-![全数据测试集预测结果](C-VIX prediction_2\全数据测试集预测结果.png)
+![全数据测试集预测结果](https://github.com/SIRI611/CVIX_Prediction/assets/95667205/88ad2515-1fde-44ac-87a5-1ee7e3eae4fb)
+
 
 Training set results after PCA processing:
 
-![主成分数据训练集预测结果](C-VIX prediction_2\主成分数据训练集预测结果.png)
+![主成分数据训练集预测结果](https://github.com/SIRI611/CVIX_Prediction/assets/95667205/5c9b15a6-4b2e-421b-857e-cb3a046ac951)
 
-Testing set results after PCA processing:![主成分数据测试预测结果](C-VIX prediction_2\主成分数据测试预测结果.png)
+
+Testing set results after PCA processing:
+![主成分数据测试预测结果](https://github.com/SIRI611/CVIX_Prediction/assets/95667205/135c4faf-b87a-42da-8c84-560ff8a494ae)
+
