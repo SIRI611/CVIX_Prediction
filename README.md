@@ -6,14 +6,14 @@ The project is divided into four phases: data collection, sentiment data quantif
 
 The training set prediction results for the entire dataset are as follows:
 
-![](D:\OneDrive\课程\大创VIX指数\git\C-VIX prediction_2\全数据训练集预测结果.png)
+![](C-VIX prediction_2\全数据训练集预测结果.png)
 
 The testing set prediction results are as follows:
 
-![全数据测试集预测结果](D:\OneDrive\课程\大创VIX指数\git\C-VIX prediction_2\全数据测试集预测结果.png)
+![全数据测试集预测结果](C-VIX prediction_2\全数据测试集预测结果.png)
 
 Training set results after PCA processing:
 
-![主成分数据训练集预测结果](D:\OneDrive\课程\大创VIX指数\git\C-VIX prediction_2\主成分数据训练集预测结果.png)
+![主成分数据训练集预测结果](C-VIX prediction_2\主成分数据训练集预测结果.png)
 
-Testing set results after PCA processing:![主成分数据测试预测结果](D:\OneDrive\课程\大创VIX指数\git\C-VIX prediction_2\主成分数据测试预测结果.png)
+Testing set results after PCA processing:![主成分数据测试预测结果](C-VIX prediction_2\主成分数据测试预测结果.png)
