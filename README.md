@@ -6,7 +6,8 @@ The project is divided into four phases: data collection, sentiment data quantif
 
 The training set prediction results for the entire dataset are as follows:
 
-![](C-VIX prediction_2\全数据训练集预测结果.png)
+![全数据训练集预测结果](https://github.com/SIRI611/CVIX_Prediction/assets/95667205/55f3a2bf-5519-4252-81a6-7d28357aceb4)
+
 
 The testing set prediction results are as follows:
 
